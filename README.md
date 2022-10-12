@@ -148,6 +148,10 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   </a>
+  
+    <a href="https://angular.io/">
+    <img src="https://w7.pngwing.com/pngs/609/369/png-transparent-angular-angularjs-coding-development-js-logo-logos-icon-thumbnail.png" alt="Angular" />
+   </a>
     
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
