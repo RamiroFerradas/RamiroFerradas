@@ -10,16 +10,16 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 
 <h2></h2>
 
-<h3 align="center">My GitHub Stats & Most Used Languages</h3>
+<h3 align="center">Mis estadísticas de GitHub y lenguajes más utilizados</h3>
 
 <p align="center">
-  <img height="200px" width="54%" src="https://github-readme-stats.vercel.app/api?username=Santi-Ostrovsky&show_icons=true&locale=en&theme=slateorange" alt="Santi's GitHub Stats" />
-  <img height="200px"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santi-Ostrovsky&show_icons=true&locale=en&layout=compact&theme=slateorange" alt="Santi's GitHub Stats" />
+  <img height="200px" width="54%" src="https://github-readme-stats.vercel.app/api?username=RamiroFerradas&show_icons=true&locale=en&theme=jolly" alt="Rami's GitHub Stats" />
+  <img height="200px"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=RamiroFerradas&show_icons=true&locale=en&layout=compact&theme=jolly" alt="Rami's GitHub Stats" />
 </p>
 
 <h2></h2>
 
-<h3 align="center">Technologies I'm familiar with:</h3>
+<h3 align="center">Tecnologías con las que estoy familiarizado:</h3>
 
 <p align="center">
   
@@ -38,15 +38,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
   <a href="https://webpack.js.org/">
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
   </a>
-  
-  <a href="https://styled-components.com/">
-    <img height="28px" width="150px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
-  </a>
-  
-  <a href="https://lesscss.org/">
-    <img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="LESS" />
-  </a>
-  
+    
   <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
   </a>
@@ -58,11 +50,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 <a href="https://nodejs.org/es/">
     <img height="28px" width="90px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
-  
-  <a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  </a>
-  
+
   <a href="https://expressjs.com/">
     <img height="28px" width="90px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   </a>
@@ -91,7 +79,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
   
-  <a href="https://github.com/Santi-Ostrovsky">
+  <a href="https://github.com/RamiroFerradas">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
@@ -160,11 +148,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   </a>
-  
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
-  
+    
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
@@ -179,15 +163,15 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 
 <p align="center">
   
-  <a href="mailto:s.ostrovsky@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-  </a>
-  
-  <a href="mailto:5ant19586@gmail.com">
+    <a href="mailto:ramiferra97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   
-  <a href="https://www.linkedin.com/in/sostro/">
+  <a href="mailto:ramiroferradas@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+    
+  <a href="https://www.linkedin.com/in/ramiro-ferradas/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
