@@ -2,11 +2,11 @@
   <img src="./Assets/Banner/GitHub-Banner.png" alt="Banner" />
 </p>
 
-<h1 align="center">𝐻𝑖 𝑡ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝑆𝑎𝑛𝑡𝑖 👋</h1>
+<h1 align="center">Hola, Soy Ramiro 👋</h1>
 
-I'm a Full Stack Web Developer 💻 and a passionate technology enthusiast. Programming has become my all-day activity of choise. I find it extremely satisfying to plan out, structure, code and design an entire product, from start to finish.
+Desarrollador de sitios web con experiencia, especializado en Frontend. Realicé numerosos proyectos que implican desarrollo de frontend y backend.
 
-As musician Marc Anthony once said: *If you love  what you  do, you will never have to work a day in your life.* And I'm happy to say... I've found it!
+Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para resolver ejercicios. Me apasiona el mundo de la tecnologia, asi que estoy buscando una oportunidad para poner en practica mis conocimientos y dispuesto a aprender nuevos.
 
 <h2></h2>
 
