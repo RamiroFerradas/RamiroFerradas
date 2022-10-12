@@ -137,7 +137,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 
 <h2></h2>
 
-<h3 align="center">I'm currently working on...</h3>
+<h3 align="center">Actualmente estoy trabajando en...</h3>
 
 <p align="center">
   
@@ -163,7 +163,7 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 
 <h2></h2>
 
-<h3 align="center">Contact Me 📲</h3>
+<h3 align="center">Contactame ! 📲</h3>
 
 <p align="center">
     <a href="mailto:ramiferra97@gmail.com">
