@@ -149,9 +149,9 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
   </a>
   
-    <a href="https://angular.io/">
-    <img src="https://w7.pngwing.com/pngs/609/369/png-transparent-angular-angularjs-coding-development-js-logo-logos-icon-thumbnail.png" alt="Angular" />
-   </a>
+  <a href="https://angular.io/">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  </a>
     
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -166,14 +166,14 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
 <h3 align="center">Contact Me 📲</h3>
 
 <p align="center">
-  
     <a href="mailto:ramiferra97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+    </a>
   
   <a href="mailto:ramiroferradas@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
+
     
   <a href="https://www.linkedin.com/in/ramiro-ferradas/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
