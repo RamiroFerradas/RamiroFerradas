@@ -180,4 +180,3 @@ Responsable, con gran motivacion para seguir aprendiendo, y perseverancia para r
   </a>
   
 </p>
-# RamiroFerradas
