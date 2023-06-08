@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <img src="./Assets/Banner/GitHub-Banner.png" alt="Banner" />
+  <img src="./Assets/Banner/ramiro(3).png" alt="Banner" />
 </p>
 
 <h1 align="center">Hola, Soy Ramiro 👋</h1>
