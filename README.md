@@ -4,8 +4,7 @@
 
 <h1 align="center">Hola, Soy Ramiro 👋</h1>
 
-Desarrollador Frontend apasionado y proactivo con experiencia en las últimas versiones de React. Especializado en React, React Native, Redux, Next JS, Typescrypt, Tailwind CSS, Material UI, Material Tailwind y Bootstrap. Habilidades en la creación de interfaces de usuario interactivas y atractivas visualmente. Solucionador de problemas y con experiencia en trabajo colaborativo e independiente. Mantengo actualizado con las últimas tendencias en desarrollo frontend. Disponible para discutir tus proyectos y contribuir a su éxito.
-
+Desarrollador web Front end con mas de un año de experiencia en el area, siempre en busca de oportunidades para aprender y aplicar nuevos conocimientos. Comprometido y resolutivo, me enorgullece enfrentar desafíos y encontrar soluciones creativas. Listo para contribuir de manera efectiva en entornos dinámicos y colaborativos.
 <h2></h2>
 
 <h3 align="center">Mis estadísticas de GitHub y lenguajes más utilizados</h3>
